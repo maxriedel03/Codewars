@@ -1,4 +1,4 @@
-package com.company;
+package com.company.kyu4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

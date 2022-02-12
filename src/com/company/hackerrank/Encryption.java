@@ -1,4 +1,4 @@
-package com.company;
+package com.company.hackerrank;
 
 //Reference: https://www.hackerrank.com/challenges/encryption/problem
 
